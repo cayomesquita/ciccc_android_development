@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ColorQuiz</string>
+    <string name="scoreLabel">Score:</string>
+    <string name="select_rigth_color_label">Select the rigth color!</string>
+</resources>
